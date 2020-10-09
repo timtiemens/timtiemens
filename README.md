@@ -10,7 +10,7 @@
 <a href="https://www.docker.com/"><img title="Docker" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://hadoop.apache.org/"><img title="Hadoop" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/></a>
 <a href="https://www.java.com/"><img title="Java" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.javascript.com/"><img title="Javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="4https://www.javascript.com/0"/></a>
+<a href="https://www.javascript.com/"><img title="Javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.jenkins.io/"><img title="Jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 <a href="https://kubernetes.io/"><img title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.linux.org/"><img title="Linux" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
