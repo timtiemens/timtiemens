@@ -18,6 +18,7 @@
 <a href="https://www.oracle.com/database/"><img title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/"><img title="Postgres" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org/"><img title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.python.org/"><img title="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height="40"/></a>
 <a href="https://spring.io/"><img title="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://www.tensorflow.org/"><img title="Tensorflow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://www.vagrantup.com/"><img title="Vagrant" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
